@@ -6,7 +6,7 @@ html, body{
 }
 #message{
     text-align: center;
-    text-color: green;
+    color: #308d5f;
 }
 .hero {
 	background-image: radial-gradient(50% 176%, #253854 80%, #061922 100%);
